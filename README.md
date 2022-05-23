@@ -9,7 +9,7 @@
  **santiagomontion@gmail.com**
 
 - 📄 My Resume 
-- **Henry Student Full Stack web Developer passionate in front end and design in general. Overcoming day by day with continuous learning in new technologies. Extensive knowledge in digital marketing, SEO and analytics with more than two years of experience with my own e-comerce (www.mgmgamers.store)**
+**Henry Student Full Stack web Developer passionate in front end and design in general. Overcoming day by day with continuous learning in new technologies. Extensive knowledge in digital marketing, SEO and analytics with more than two years of experience with my own e-comerce (www.mgmgamers.store)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
