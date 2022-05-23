@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native.**
 
-- 📫 How to reach me **santiagomontion@gmail.com**
+- 📫 Contact Me **santiagomontion@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
